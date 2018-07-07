@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="c0a0688a-6242-4eed-a601-9edcad1db223" />
+      <option name="name" value="c0a0688a-6242-4eed-a601-9edcad1db223" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="664b3b20-9aa1-41ca-9674-337bac0b5a7c" />
+      <option name="name" value="664b3b20-9aa1-41ca-9674-337bac0b5a7c" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="266fd221-88ad-4724-ab05-117e6fd7a00d" />
+      <option name="name" value="266fd221-88ad-4724-ab05-117e6fd7a00d" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+  </component>
+</project>
